@@ -1,0 +1,31 @@
+_repo: B.-C.-30-000_26989
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Meek, S. P. (Sterner St. Paul)
+    alias: Meek, Sterner St. Paul
+    birthdate: 1894
+    deathdate: 1972
+    gutenberg_agent_id: '25130'
+    url: http://www.gutenberg.org/2009/agents/25130
+    wikipedia: http://en.wikipedia.org/wiki/S.P._Meek
+description: ''
+gutenberg_bookshelf:
+- Science Fiction
+- Astounding Stories
+gutenberg_issued: '2008-10-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26989'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Prehistoric peoples -- Fiction'
+- !lcc 'PS'
+title: B. C. 30,000
+url: http://www.gutenberg.org/ebooks/26989
